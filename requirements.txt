@@ -1,0 +1,16 @@
+torch>=1.12.0
+transformers>=4.20.0
+datasets
+scispacy
+spacy
+scipy
+sentencepiece
+torchvision
+python-docx
+python-pptx
+reportlab
+tqdm
+faiss-cpu
+scikit-learn
+pandas
+numpy
